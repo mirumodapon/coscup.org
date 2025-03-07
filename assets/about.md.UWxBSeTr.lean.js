@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,a3 as t}from"./chunks/framework.CAtZryCM.js";const C=JSON.parse('{"title":"認識我們","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"zh_tw/about.md"}'),r={name:"about.md"},l=t("",14),i=[l];function s(n,h,c,d,u,_){return o(),e("div",null,i)}const P=a(r,[["render",s]]);export{C as __pageData,P as default};
